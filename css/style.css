@@ -1,0 +1,101 @@
+.navbar-custom{
+    background-color: #E3FEF7;
+}
+
+.nav-link {
+    color: #003C43;
+    font: 20px sans-serif;
+    padding: 10px;
+}
+
+.bg{
+    background-color: #77B0AA;
+}
+
+.name{
+    font: 120px "Sacramento", cursive;
+    color: #135D66;
+}
+
+.domain{
+    font: 35px sans-serif;
+    color: #E3FEF7;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.me{
+    font: 50px sans-serif;
+    color: #003C43;
+}
+
+.intro{
+    font: 20px sans-serif;
+    color: #E3FEF7;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.skills-content {
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    flex: 1;
+}
+
+.title {
+    margin: 20px;
+    color: #135D66;
+    font-size: 4rem;
+}
+
+.add{
+    margin: 20px;
+    color: #135D66;
+    font-size: 4rem;
+}
+
+.first{
+    color: #00ADB5;
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.card-body{
+    height: 225px;
+    padding-top: 50px;
+}
+
+.btn{
+    width: 20rem;
+    font: 15px sans-serif;
+    color: #135D66;
+    border-color: #135D66;
+    border-width: 2px;
+}
+
+.footer{
+    background-color: #135D66;
+}
+
+.text{
+    color: #E3FEF7;
+}
+
+.list-item{
+    color: #E3FEF7;
+    font-size: 1.5rem;
+}
+
+.skills-title{
+    color: #135D66;
+}
